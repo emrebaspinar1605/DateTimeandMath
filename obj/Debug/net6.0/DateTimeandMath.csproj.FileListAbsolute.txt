@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\DateTimeandMath\bin\Debug\net6.0\DateTimeandMath.exe
+C:\Users\Turku\Desktop\Pratikler\DateTimeandMath\bin\Debug\net6.0\DateTimeandMath.deps.json
+C:\Users\Turku\Desktop\Pratikler\DateTimeandMath\bin\Debug\net6.0\DateTimeandMath.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\DateTimeandMath\bin\Debug\net6.0\DateTimeandMath.dll
+C:\Users\Turku\Desktop\Pratikler\DateTimeandMath\bin\Debug\net6.0\DateTimeandMath.pdb
+C:\Users\Turku\Desktop\Pratikler\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.dll
+C:\Users\Turku\Desktop\Pratikler\DateTimeandMath\obj\Debug\net6.0\refint\DateTimeandMath.dll
+C:\Users\Turku\Desktop\Pratikler\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.pdb
+C:\Users\Turku\Desktop\Pratikler\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\DateTimeandMath\obj\Debug\net6.0\ref\DateTimeandMath.dll
